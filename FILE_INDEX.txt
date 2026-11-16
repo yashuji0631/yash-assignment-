@@ -1,0 +1,15 @@
+Assignment 3: first.html, headings.html, text-format.html
+Assignment 4: layout.html, attributes.html, attendance-fixed.html
+Assignment 5: home.html, portfolio.html, portfolio-image.html
+Assignment 6: shopping-list.html, canteen-menu.html, faq.html
+Assignment 7: about-me.html
+Assignment 8: signup.html, choices.html, signup-required.html
+Assignment 9: marks.html, marks-average.html, marks-accessible.html
+Assignment 10: inline-internal.html, style.css, linked.html
+Assignment 11: units.html, variables.html, tokens.css
+Assignment 12: box-model.html, card.html, scroll.html
+Assignment 13: nav-flex.html, centred-cards.html, wrapping-cards.html
+Assignment 14: grid-first.html, gallery.html, dashboard-areas.html
+Assignment 15: mobile-first.html, responsive-image.html, responsive-text.html
+
+Assignments 1 and 2 are provided as terminal command instructions in README_FIRST.txt.

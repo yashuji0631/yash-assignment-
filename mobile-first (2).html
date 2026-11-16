@@ -1,0 +1,21 @@
+<!-- Name: Yashwardhan Singh | Roll No.: __________ | Assignment: 15.1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Mobile First Layout</title>
+  <style>
+    .cards { display: flex; flex-direction: column; gap: 15px; }
+    .card { padding: 20px; background: #eaf2f8; border: 1px solid #1d3557; }
+    @media (min-width: 600px) {
+      .cards { flex-direction: row; }
+      .card { flex: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="cards">
+    <div class="card"><h2>Card One</h2><p>This is the first card.</p></div>
+    <div class="card"><h2>Card Two</h2><p>This is the second card.</p></div>
+  </div>
+</body>
+</html>
